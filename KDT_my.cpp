@@ -79,7 +79,7 @@ void insert(node p) {
 
 int N,M;
 int main () {
-    freopen("2648.in","r",stdin);freopen("2648.out","w",stdout);
+    //freopen("2648.in","r",stdin);freopen("2648.out","w",stdout);
     scanf("%d%d",&N,&M);
     for (int i=1,x,y;i<=N;i++) {
         scanf("%d%d",&x,&y);
